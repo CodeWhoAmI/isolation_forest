@@ -1,5 +1,5 @@
 # isolation_forest
-Code to create a machine learning model based on the isolation forest algorithm to do anomaly detection on sysmon process create logs. 
+Code to create a machine learning model based on the isolation forest algorithm to do anomaly detection of LotL on sysmon process create logs using parent-child relationships. 
 
 Consists of:
 
